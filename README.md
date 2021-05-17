@@ -1,6 +1,2 @@
 # jenkinslab
-Lab repo for Jenkins
-
-Will this trigger a build 
-
-What about.... THIS!
+This serves as a testing ground for triggering builds in jenkins and will be reflected in jenkins
